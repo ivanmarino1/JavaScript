@@ -5,4 +5,3 @@ console.log(boolean1 === boolean2); // False
 
 console.log(boolean1 === true); // True
 console.log(boolean1 === 'true'); // False
-
